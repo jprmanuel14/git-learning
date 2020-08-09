@@ -1,1 +1,1 @@
-branch1's first file.
+branch1's first file - modified in myApp_branch1
